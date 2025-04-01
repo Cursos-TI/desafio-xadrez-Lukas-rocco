@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int main(){
     int t;
     int r = 1;
